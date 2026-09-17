@@ -25,7 +25,7 @@ public:
         }
     }
 
-    // GFG expects this exact name
+
     vector<vector<int>> uniqueCombinations(vector<int>& arr, int sum) {
 
         sort(arr.begin(), arr.end());
